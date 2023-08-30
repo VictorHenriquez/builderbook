@@ -39,7 +39,7 @@
     "isomorphic-unfetch": "^4.0.2",
     "lodash": "^4.17.21",
     "marked": "^4.2.5",
-    "mongodb": "^4.1.0",
+    "mongodb": "^4.17.0",
     "mongoose": "^6.8.3",
     "next": "^13.1.1",
     "node-fetch": "^2.6.1",
